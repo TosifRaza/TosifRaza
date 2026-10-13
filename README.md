@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tosif Raza
 
-<!--
-**TosifRaza/TosifRaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack JavaScript Developer** building practical web products with React, Node.js, Express, and MongoDB.
 
-Here are some ideas to get you started:
+I enjoy taking an idea from a responsive frontend through backend APIs and data storage, with a focus on clear user experiences and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio:** [tosif-portfolio-frontend.vercel.app](https://tosif-portfolio-frontend.vercel.app)  
+**Based in:** Kolkata, India
+
+## Featured Projects
+
+- **[TOSIF OS - Portfolio & Personal Operating System](https://github.com/TosifRaza/Tosif-Portfolio)**  
+  A recruiter-facing portfolio paired with a private productivity workspace, built with React, Node.js, Express, and MongoDB.
+- **[StoreX](https://github.com/TosifRaza/StoreX)**  
+  An inventory and operations management app for small businesses.
+- **[KING'S TEA](https://github.com/TosifRaza/kings-tea)**  
+  A MERN e-commerce experience for a luxury tea brand.
+- **[VahanSetu](https://github.com/TosifRaza/VahanSetu)**  
+  A mobility platform concept for connecting businesses with vehicles and drivers.
+
+## Tech
+
+**Frontend:** JavaScript, React, Vite, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Data & tools:** MongoDB, Mongoose, REST APIs, Git, GitHub
+
+---
+I'm focused on building useful full-stack applications and growing through hands-on projects.
