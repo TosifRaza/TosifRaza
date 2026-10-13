@@ -4,7 +4,7 @@
 
 I enjoy taking an idea from a responsive frontend through backend APIs and data storage, with a focus on clear user experiences and maintainable code.
 
-**Portfolio:** [tosif-portfolio-frontend.vercel.app](https://tosif.site)  
+**Portfolio:** [tosif.site](https://tosif.site/)  
 **Based in:** Kolkata, India
 
 ## Featured Projects
